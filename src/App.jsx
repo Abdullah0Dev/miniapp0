@@ -7,7 +7,7 @@ import CreateCoin from './components/CreateCoin'
 const App = () => {
   return (
     <>
-    <CreateCoin />  
+    <Welcome />  
     </>
   )
 }
